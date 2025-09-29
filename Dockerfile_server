@@ -1,14 +1,21 @@
 # Use an official python runtime as a parent image
-FROM python:3
+FROM ubuntu:latest
 
-# Set the working directory 
+# Set the working directory
 WORKDIR /usr/src/app
 
-# copy the requirements file and install the dependencies
-COPY requirements.txt ./
-RUN pip install --no-cache-dir -r requirements.txt
 
 # copy the contents of current directory to the container
 COPY . .
+# COPY requirements.txt ./
 
-CMD ["python", "server.py"]
+RUN apt-get update
+RUN apt-get install -y python3-pip
+RUN pip install --no-cache-dir -r requirements.txt
+RUN apt-get install -y nano
+RUN apt-get install -y mysql-server 
+RUN apt-get install -y systemctl
+
+
+# copy the contents of current directory to the container
+CMD ["bash", "-c", "chmod +x initializer_script_server; ./initializer_script_server;"]

@@ -1,15 +1,20 @@
 # Use an official python runtime as a parent image
-FROM python:3
+FROM ubuntu:latest
 
 # Set the working directory 
 WORKDIR /usr/src/app
 
-# copy the requirements file and install the dependencies
-COPY requirements.txt ./
-RUN pip install --no-cache-dir -r requirements.txt
 
 # copy the contents of current directory to the container
 COPY . .
 
+RUN apt-get update
+RUN apt-get install -y python3-pip
+RUN pip install --no-cache-dir -r requirements.txt
+RUN apt-get install -y nano
+# RUN apt-get install -y mysql-server 
+# RUN apt-get install -y systemctl
+
 # Run load_balancer.py when the container launches 
-CMD ["bash", "-c", "python load_balancer.py > logs"]
+# CMD ["bash", "-c", "chmod +x initializer_script_lb; ./initializer_script_lb;"]
+CMD ["bash", "-c", "python3 new_lb.py > lb_logs"]

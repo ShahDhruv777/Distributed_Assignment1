@@ -1,0 +1,1266 @@
+root@client:/usr/src/app# python3 AsyncAnalysis.py 
+/init
+Status: 200
+Response:
+{"message": "Configured Database", "status": "success"}
+
+0
+32 Write requests took 1.2397818565368652 seconds
+1
+32 Write requests took 0.7701880931854248 seconds
+2
+32 Write requests took 0.6991546154022217 seconds
+3
+32 Write requests took 0.7908804416656494 seconds
+4
+32 Write requests took 0.7502691745758057 seconds
+5
+32 Write requests took 0.7547280788421631 seconds
+6
+32 Write requests took 0.7822728157043457 seconds
+7
+32 Write requests took 0.7649013996124268 seconds
+8
+32 Write requests took 0.7613716125488281 seconds
+9
+32 Write requests took 0.9088215827941895 seconds
+10
+32 Write requests took 0.7941272258758545 seconds
+11
+32 Write requests took 0.7621479034423828 seconds
+12
+32 Write requests took 0.7937231063842773 seconds
+13
+32 Write requests took 0.8792946338653564 seconds
+14
+32 Write requests took 0.8521795272827148 seconds
+15
+32 Write requests took 0.7548618316650391 seconds
+16
+32 Write requests took 0.7551918029785156 seconds
+17
+32 Write requests took 0.7162199020385742 seconds
+18
+32 Write requests took 1.099635362625122 seconds
+19
+32 Write requests took 0.8890604972839355 seconds
+20
+32 Write requests took 0.7562980651855469 seconds
+21
+32 Write requests took 0.734957218170166 seconds
+22
+32 Write requests took 0.8666970729827881 seconds
+23
+32 Write requests took 1.1348989009857178 seconds
+24
+32 Write requests took 0.8078224658966064 seconds
+25
+32 Write requests took 1.0730278491973877 seconds
+26
+32 Write requests took 0.7736952304840088 seconds
+27
+32 Write requests took 0.8322904109954834 seconds
+28
+32 Write requests took 0.8649866580963135 seconds
+29
+32 Write requests took 0.8268449306488037 seconds
+30
+Error
+32 Write requests took 2.49568510055542 seconds
+31
+32 Write requests took 0.7725284099578857 seconds
+32
+32 Write requests took 0.7066650390625 seconds
+33
+32 Write requests took 0.7623560428619385 seconds
+34
+32 Write requests took 0.7758324146270752 seconds
+35
+32 Write requests took 0.7771387100219727 seconds
+36
+32 Write requests took 0.945683479309082 seconds
+37
+32 Write requests took 0.8320300579071045 seconds
+38
+32 Write requests took 0.7908935546875 seconds
+39
+32 Write requests took 0.7910051345825195 seconds
+40
+32 Write requests took 0.8578598499298096 seconds
+41
+32 Write requests took 0.7430636882781982 seconds
+42
+32 Write requests took 0.8021008968353271 seconds
+43
+32 Write requests took 0.7183096408843994 seconds
+44
+32 Write requests took 0.9207446575164795 seconds
+45
+32 Write requests took 0.8015260696411133 seconds
+46
+32 Write requests took 1.104339361190796 seconds
+47
+32 Write requests took 1.275601863861084 seconds
+48
+32 Write requests took 0.8442420959472656 seconds
+49
+32 Write requests took 0.8591978549957275 seconds
+50
+32 Write requests took 0.8088521957397461 seconds
+51
+32 Write requests took 0.7767443656921387 seconds
+52
+32 Write requests took 0.7467207908630371 seconds
+53
+32 Write requests took 0.9100489616394043 seconds
+54
+32 Write requests took 0.822829008102417 seconds
+55
+32 Write requests took 0.7537961006164551 seconds
+56
+32 Write requests took 0.8828709125518799 seconds
+57
+32 Write requests took 0.7771627902984619 seconds
+58
+32 Write requests took 0.7591369152069092 seconds
+59
+32 Write requests took 1.2866904735565186 seconds
+60
+32 Write requests took 0.718674898147583 seconds
+61
+32 Write requests took 1.0733768939971924 seconds
+62
+32 Write requests took 1.1926286220550537 seconds
+63
+32 Write requests took 1.2301850318908691 seconds
+64
+32 Write requests took 1.089989423751831 seconds
+65
+32 Write requests took 0.7850425243377686 seconds
+66
+32 Write requests took 0.750805139541626 seconds
+67
+32 Write requests took 0.8090429306030273 seconds
+68
+32 Write requests took 0.8042633533477783 seconds
+69
+32 Write requests took 1.0474514961242676 seconds
+70
+32 Write requests took 1.4551782608032227 seconds
+71
+32 Write requests took 1.5136146545410156 seconds
+72
+32 Write requests took 1.4439527988433838 seconds
+73
+32 Write requests took 1.4744007587432861 seconds
+74
+32 Write requests took 1.6013123989105225 seconds
+75
+32 Write requests took 1.5845496654510498 seconds
+76
+32 Write requests took 1.4312498569488525 seconds
+77
+32 Write requests took 1.5812082290649414 seconds
+78
+32 Write requests took 1.5156805515289307 seconds
+79
+32 Write requests took 1.6348671913146973 seconds
+80
+32 Write requests took 1.5120275020599365 seconds
+81
+32 Write requests took 1.5277824401855469 seconds
+82
+32 Write requests took 1.4936988353729248 seconds
+83
+32 Write requests took 1.3938000202178955 seconds
+84
+32 Write requests took 1.4686279296875 seconds
+85
+32 Write requests took 1.831080436706543 seconds
+86
+32 Write requests took 1.3652076721191406 seconds
+87
+32 Write requests took 1.3507795333862305 seconds
+88
+32 Write requests took 1.723376750946045 seconds
+89
+32 Write requests took 1.5095272064208984 seconds
+90
+32 Write requests took 1.3874757289886475 seconds
+91
+32 Write requests took 1.6747357845306396 seconds
+92
+32 Write requests took 1.473217487335205 seconds
+93
+32 Write requests took 1.2409727573394775 seconds
+94
+32 Write requests took 1.544501543045044 seconds
+95
+32 Write requests took 1.4110686779022217 seconds
+96
+32 Write requests took 1.384721279144287 seconds
+97
+32 Write requests took 1.3357739448547363 seconds
+98
+32 Write requests took 1.286600112915039 seconds
+99
+32 Write requests took 1.4349610805511475 seconds
+100
+32 Write requests took 1.3478128910064697 seconds
+101
+32 Write requests took 1.3188703060150146 seconds
+102
+32 Write requests took 1.3080153465270996 seconds
+103
+32 Write requests took 1.7874994277954102 seconds
+104
+32 Write requests took 1.3602266311645508 seconds
+105
+32 Write requests took 1.308727502822876 seconds
+106
+32 Write requests took 1.3004281520843506 seconds
+107
+32 Write requests took 1.2472364902496338 seconds
+108
+32 Write requests took 1.3923687934875488 seconds
+109
+32 Write requests took 1.3803205490112305 seconds
+110
+32 Write requests took 1.5805652141571045 seconds
+111
+32 Write requests took 1.626049518585205 seconds
+112
+32 Write requests took 1.346384048461914 seconds
+113
+32 Write requests took 1.450308084487915 seconds
+114
+32 Write requests took 1.3478293418884277 seconds
+115
+32 Write requests took 1.3756699562072754 seconds
+116
+32 Write requests took 1.4661486148834229 seconds
+117
+32 Write requests took 1.2887547016143799 seconds
+118
+32 Write requests took 1.5035679340362549 seconds
+119
+32 Write requests took 1.6207191944122314 seconds
+120
+32 Write requests took 1.1812875270843506 seconds
+121
+32 Write requests took 1.4816088676452637 seconds
+122
+32 Write requests took 1.3297321796417236 seconds
+123
+32 Write requests took 1.3440816402435303 seconds
+124
+32 Write requests took 1.3372392654418945 seconds
+125
+32 Write requests took 1.4714484214782715 seconds
+126
+32 Write requests took 1.439009428024292 seconds
+127
+32 Write requests took 1.314380407333374 seconds
+128
+32 Write requests took 1.5475091934204102 seconds
+129
+32 Write requests took 1.1404528617858887 seconds
+130
+32 Write requests took 1.1139683723449707 seconds
+131
+32 Write requests took 1.1952991485595703 seconds
+132
+32 Write requests took 1.3033084869384766 seconds
+133
+32 Write requests took 1.3538098335266113 seconds
+134
+32 Write requests took 1.4176890850067139 seconds
+135
+32 Write requests took 1.1391246318817139 seconds
+136
+32 Write requests took 1.363234519958496 seconds
+137
+32 Write requests took 1.334029197692871 seconds
+138
+32 Write requests took 1.4665238857269287 seconds
+139
+32 Write requests took 1.3633105754852295 seconds
+140
+32 Write requests took 1.4205222129821777 seconds
+141
+32 Write requests took 1.219580888748169 seconds
+142
+32 Write requests took 1.4233016967773438 seconds
+143
+32 Write requests took 1.2811319828033447 seconds
+144
+32 Write requests took 1.375462293624878 seconds
+145
+32 Write requests took 1.015862226486206 seconds
+146
+32 Write requests took 1.2345612049102783 seconds
+147
+32 Write requests took 1.0768682956695557 seconds
+148
+32 Write requests took 1.3244738578796387 seconds
+149
+32 Write requests took 1.3457984924316406 seconds
+150
+32 Write requests took 1.4083292484283447 seconds
+151
+32 Write requests took 1.2348763942718506 seconds
+152
+32 Write requests took 1.4914097785949707 seconds
+153
+32 Write requests took 1.377422571182251 seconds
+154
+32 Write requests took 1.4020435810089111 seconds
+155
+32 Write requests took 1.2532007694244385 seconds
+156
+32 Write requests took 1.3447487354278564 seconds
+157
+32 Write requests took 1.2341456413269043 seconds
+158
+32 Write requests took 1.1797001361846924 seconds
+159
+32 Write requests took 1.1526482105255127 seconds
+160
+32 Write requests took 1.189734935760498 seconds
+161
+32 Write requests took 1.2526288032531738 seconds
+162
+32 Write requests took 1.2482655048370361 seconds
+163
+32 Write requests took 1.5563161373138428 seconds
+164
+32 Write requests took 1.227712631225586 seconds
+165
+32 Write requests took 1.1676089763641357 seconds
+166
+32 Write requests took 1.314068078994751 seconds
+167
+32 Write requests took 1.1478583812713623 seconds
+168
+32 Write requests took 1.2193691730499268 seconds
+169
+32 Write requests took 1.508120059967041 seconds
+170
+32 Write requests took 1.1417522430419922 seconds
+171
+32 Write requests took 1.2580270767211914 seconds
+172
+32 Write requests took 1.2224535942077637 seconds
+173
+32 Write requests took 1.1169207096099854 seconds
+174
+32 Write requests took 1.0118317604064941 seconds
+175
+32 Write requests took 1.1129202842712402 seconds
+176
+32 Write requests took 1.146090030670166 seconds
+177
+32 Write requests took 1.2141168117523193 seconds
+178
+32 Write requests took 0.9661939144134521 seconds
+179
+32 Write requests took 1.285184383392334 seconds
+180
+32 Write requests took 1.1372299194335938 seconds
+181
+32 Write requests took 1.3801476955413818 seconds
+182
+32 Write requests took 1.2777273654937744 seconds
+183
+32 Write requests took 1.1340374946594238 seconds
+184
+32 Write requests took 1.3000521659851074 seconds
+185
+32 Write requests took 2.902564525604248 seconds
+186
+32 Write requests took 1.5385494232177734 seconds
+187
+32 Write requests took 1.3404717445373535 seconds
+188
+32 Write requests took 0.9260966777801514 seconds
+189
+32 Write requests took 1.6340246200561523 seconds
+190
+32 Write requests took 1.2044403553009033 seconds
+191
+32 Write requests took 1.1305155754089355 seconds
+192
+32 Write requests took 0.8840105533599854 seconds
+193
+32 Write requests took 1.0619590282440186 seconds
+194
+32 Write requests took 1.3542845249176025 seconds
+195
+32 Write requests took 1.3816204071044922 seconds
+196
+32 Write requests took 1.1312081813812256 seconds
+197
+32 Write requests took 1.4597465991973877 seconds
+198
+32 Write requests took 1.1102910041809082 seconds
+199
+32 Write requests took 1.3046472072601318 seconds
+200
+32 Write requests took 1.4690227508544922 seconds
+201
+32 Write requests took 1.1588692665100098 seconds
+202
+32 Write requests took 1.3205595016479492 seconds
+203
+32 Write requests took 1.2657575607299805 seconds
+204
+32 Write requests took 1.776965618133545 seconds
+205
+32 Write requests took 1.500915765762329 seconds
+206
+32 Write requests took 1.3729298114776611 seconds
+207
+32 Write requests took 1.3491501808166504 seconds
+208
+32 Write requests took 1.2643718719482422 seconds
+209
+32 Write requests took 1.195357084274292 seconds
+210
+32 Write requests took 1.1738560199737549 seconds
+211
+32 Write requests took 1.5703542232513428 seconds
+212
+32 Write requests took 1.1501946449279785 seconds
+213
+32 Write requests took 1.3261375427246094 seconds
+214
+32 Write requests took 1.1039032936096191 seconds
+215
+32 Write requests took 1.10117506980896 seconds
+216
+32 Write requests took 1.1176536083221436 seconds
+217
+32 Write requests took 1.169447660446167 seconds
+218
+32 Write requests took 1.5437932014465332 seconds
+219
+32 Write requests took 1.4601163864135742 seconds
+220
+32 Write requests took 1.2899315357208252 seconds
+221
+32 Write requests took 1.1908557415008545 seconds
+222
+32 Write requests took 1.1345717906951904 seconds
+223
+32 Write requests took 1.122227430343628 seconds
+224
+32 Write requests took 1.102222204208374 seconds
+225
+32 Write requests took 1.1503548622131348 seconds
+226
+32 Write requests took 1.2953972816467285 seconds
+227
+32 Write requests took 1.3229892253875732 seconds
+228
+32 Write requests took 1.170698642730713 seconds
+229
+32 Write requests took 1.1405689716339111 seconds
+230
+32 Write requests took 1.1843297481536865 seconds
+231
+32 Write requests took 1.4728291034698486 seconds
+232
+32 Write requests took 1.1257565021514893 seconds
+233
+32 Write requests took 1.414900541305542 seconds
+234
+32 Write requests took 1.0847408771514893 seconds
+235
+32 Write requests took 1.2716047763824463 seconds
+236
+Error
+Error
+32 Write requests took 3.872795581817627 seconds
+237
+32 Write requests took 1.2015726566314697 seconds
+238
+32 Write requests took 1.3879363536834717 seconds
+239
+32 Write requests took 1.0438623428344727 seconds
+240
+32 Write requests took 1.306731939315796 seconds
+241
+32 Write requests took 1.1813130378723145 seconds
+242
+32 Write requests took 1.3947319984436035 seconds
+243
+32 Write requests took 1.2839679718017578 seconds
+244
+32 Write requests took 0.9705655574798584 seconds
+245
+32 Write requests took 1.1798052787780762 seconds
+246
+32 Write requests took 1.2411580085754395 seconds
+247
+32 Write requests took 1.0923469066619873 seconds
+248
+32 Write requests took 1.136965036392212 seconds
+249
+32 Write requests took 1.2488625049591064 seconds
+250
+32 Write requests took 1.1045455932617188 seconds
+251
+32 Write requests took 1.08095121383667 seconds
+252
+32 Write requests took 0.8022720813751221 seconds
+253
+32 Write requests took 1.3021323680877686 seconds
+254
+32 Write requests took 1.4407167434692383 seconds
+255
+32 Write requests took 1.165693998336792 seconds
+256
+32 Write requests took 1.2314980030059814 seconds
+257
+32 Write requests took 1.0909292697906494 seconds
+258
+32 Write requests took 1.258643388748169 seconds
+259
+32 Write requests took 1.0597646236419678 seconds
+260
+32 Write requests took 1.0636184215545654 seconds
+261
+32 Write requests took 1.0430488586425781 seconds
+262
+32 Write requests took 1.1744754314422607 seconds
+263
+32 Write requests took 1.1357407569885254 seconds
+264
+32 Write requests took 1.1028482913970947 seconds
+265
+32 Write requests took 1.1361474990844727 seconds
+266
+32 Write requests took 1.07297945022583 seconds
+267
+32 Write requests took 1.270186185836792 seconds
+268
+32 Write requests took 0.9682402610778809 seconds
+269
+32 Write requests took 1.384953260421753 seconds
+270
+32 Write requests took 1.2128715515136719 seconds
+271
+32 Write requests took 1.173391342163086 seconds
+272
+32 Write requests took 1.0438830852508545 seconds
+273
+32 Write requests took 1.4000434875488281 seconds
+274
+32 Write requests took 1.177063226699829 seconds
+275
+32 Write requests took 1.354783058166504 seconds
+276
+32 Write requests took 1.1973755359649658 seconds
+277
+32 Write requests took 1.178586483001709 seconds
+278
+32 Write requests took 1.0241279602050781 seconds
+279
+32 Write requests took 1.0525565147399902 seconds
+280
+32 Write requests took 1.1484663486480713 seconds
+281
+32 Write requests took 1.1498420238494873 seconds
+282
+32 Write requests took 1.2566020488739014 seconds
+283
+32 Write requests took 0.927889347076416 seconds
+284
+32 Write requests took 1.0179359912872314 seconds
+285
+32 Write requests took 1.2822377681732178 seconds
+286
+32 Write requests took 1.021111011505127 seconds
+287
+32 Write requests took 1.4524338245391846 seconds
+288
+32 Write requests took 1.1277918815612793 seconds
+289
+32 Write requests took 0.8504006862640381 seconds
+290
+32 Write requests took 1.0434129238128662 seconds
+291
+32 Write requests took 1.1461107730865479 seconds
+292
+32 Write requests took 1.4103119373321533 seconds
+293
+32 Write requests took 1.1313579082489014 seconds
+294
+32 Write requests took 1.042952537536621 seconds
+295
+32 Write requests took 1.196009635925293 seconds
+296
+32 Write requests took 1.1110155582427979 seconds
+297
+32 Write requests took 1.0595333576202393 seconds
+298
+32 Write requests took 1.2326977252960205 seconds
+299
+32 Write requests took 1.124742031097412 seconds
+0
+32 Read requests took 1.1939091682434082 seconds
+1
+32 Read requests took 0.3698298931121826 seconds
+2
+32 Read requests took 1.1943473815917969 seconds
+3
+32 Read requests took 0.40324950218200684 seconds
+4
+32 Read requests took 0.41388988494873047 seconds
+5
+32 Read requests took 1.1014366149902344 seconds
+6
+32 Read requests took 1.2409801483154297 seconds
+7
+32 Read requests took 0.3671257495880127 seconds
+8
+32 Read requests took 1.1019856929779053 seconds
+9
+32 Read requests took 1.1801300048828125 seconds
+10
+32 Read requests took 1.2120802402496338 seconds
+11
+32 Read requests took 1.1451125144958496 seconds
+12
+32 Read requests took 1.1195847988128662 seconds
+13
+32 Read requests took 1.2695229053497314 seconds
+14
+32 Read requests took 1.1661155223846436 seconds
+15
+32 Read requests took 0.33411741256713867 seconds
+16
+32 Read requests took 0.3323078155517578 seconds
+17
+32 Read requests took 1.180471658706665 seconds
+18
+32 Read requests took 1.0639979839324951 seconds
+19
+32 Read requests took 1.037755012512207 seconds
+20
+32 Read requests took 1.1502325534820557 seconds
+21
+32 Read requests took 0.4058997631072998 seconds
+22
+32 Read requests took 1.2039737701416016 seconds
+23
+32 Read requests took 1.133303165435791 seconds
+24
+32 Read requests took 1.0582928657531738 seconds
+25
+32 Read requests took 1.1193609237670898 seconds
+26
+32 Read requests took 1.1540751457214355 seconds
+27
+32 Read requests took 1.1521563529968262 seconds
+28
+32 Read requests took 1.2115559577941895 seconds
+29
+32 Read requests took 1.1596593856811523 seconds
+30
+32 Read requests took 1.118779182434082 seconds
+31
+32 Read requests took 1.098733901977539 seconds
+32
+32 Read requests took 1.0678660869598389 seconds
+33
+32 Read requests took 1.1848697662353516 seconds
+34
+32 Read requests took 1.1727511882781982 seconds
+35
+32 Read requests took 1.1928019523620605 seconds
+36
+32 Read requests took 1.130582332611084 seconds
+37
+32 Read requests took 1.15126633644104 seconds
+38
+32 Read requests took 1.1122546195983887 seconds
+39
+32 Read requests took 1.1602039337158203 seconds
+40
+32 Read requests took 1.1809329986572266 seconds
+41
+32 Read requests took 1.1185235977172852 seconds
+42
+32 Read requests took 0.3073697090148926 seconds
+43
+32 Read requests took 0.29320621490478516 seconds
+44
+32 Read requests took 1.1142463684082031 seconds
+45
+32 Read requests took 1.1239280700683594 seconds
+46
+32 Read requests took 1.059605360031128 seconds
+47
+32 Read requests took 1.1336753368377686 seconds
+48
+32 Read requests took 1.1291239261627197 seconds
+49
+32 Read requests took 1.1908745765686035 seconds
+50
+32 Read requests took 0.28699350357055664 seconds
+51
+32 Read requests took 0.33069705963134766 seconds
+52
+32 Read requests took 1.1491689682006836 seconds
+53
+32 Read requests took 1.2456488609313965 seconds
+54
+32 Read requests took 1.168708324432373 seconds
+55
+32 Read requests took 0.3798661231994629 seconds
+56
+32 Read requests took 1.0425646305084229 seconds
+57
+32 Read requests took 1.1424431800842285 seconds
+58
+32 Read requests took 1.1826274394989014 seconds
+59
+32 Read requests took 0.3588426113128662 seconds
+60
+32 Read requests took 1.11002779006958 seconds
+61
+32 Read requests took 0.31466150283813477 seconds
+62
+32 Read requests took 1.2666702270507812 seconds
+63
+32 Read requests took 1.1462781429290771 seconds
+64
+32 Read requests took 0.3076670169830322 seconds
+65
+32 Read requests took 1.2270183563232422 seconds
+66
+32 Read requests took 1.2447240352630615 seconds
+67
+32 Read requests took 1.178501844406128 seconds
+68
+32 Read requests took 0.339935302734375 seconds
+69
+32 Read requests took 1.1781249046325684 seconds
+70
+32 Read requests took 1.115401029586792 seconds
+71
+32 Read requests took 1.1153852939605713 seconds
+72
+32 Read requests took 1.1323003768920898 seconds
+73
+32 Read requests took 0.2947814464569092 seconds
+74
+32 Read requests took 0.40491294860839844 seconds
+75
+32 Read requests took 1.2026586532592773 seconds
+76
+32 Read requests took 1.1626856327056885 seconds
+77
+32 Read requests took 0.3091928958892822 seconds
+78
+32 Read requests took 1.1394102573394775 seconds
+79
+32 Read requests took 0.33402419090270996 seconds
+80
+32 Read requests took 1.1030404567718506 seconds
+81
+32 Read requests took 1.0860249996185303 seconds
+82
+Error
+Error
+Error
+Error
+Error
+Error
+Error
+Error
+Error
+Error
+Error
+Error
+Error
+Error
+Error
+Error
+Error
+Error
+Error
+Error
+32 Read requests took 22.170875549316406 seconds
+83
+32 Read requests took 0.3093886375427246 seconds
+84
+32 Read requests took 1.094438076019287 seconds
+85
+32 Read requests took 1.0962612628936768 seconds
+86
+32 Read requests took 1.0704095363616943 seconds
+87
+32 Read requests took 0.2706000804901123 seconds
+88
+32 Read requests took 1.1954231262207031 seconds
+89
+32 Read requests took 1.0510551929473877 seconds
+90
+32 Read requests took 1.105010986328125 seconds
+91
+32 Read requests took 0.3025639057159424 seconds
+92
+32 Read requests took 1.1914966106414795 seconds
+93
+32 Read requests took 1.0690054893493652 seconds
+94
+32 Read requests took 1.1417346000671387 seconds
+95
+32 Read requests took 1.1023380756378174 seconds
+96
+32 Read requests took 1.1786365509033203 seconds
+97
+32 Read requests took 1.136138677597046 seconds
+98
+32 Read requests took 0.27896642684936523 seconds
+99
+32 Read requests took 0.34818387031555176 seconds
+100
+32 Read requests took 1.1674308776855469 seconds
+101
+32 Read requests took 1.1232404708862305 seconds
+102
+32 Read requests took 1.0750796794891357 seconds
+103
+32 Read requests took 1.24527907371521 seconds
+104
+32 Read requests took 1.1738431453704834 seconds
+105
+32 Read requests took 0.32001185417175293 seconds
+106
+32 Read requests took 1.2869224548339844 seconds
+107
+32 Read requests took 1.0719072818756104 seconds
+108
+32 Read requests took 1.1590511798858643 seconds
+109
+32 Read requests took 1.1435942649841309 seconds
+110
+32 Read requests took 0.31915903091430664 seconds
+111
+32 Read requests took 0.38299989700317383 seconds
+112
+32 Read requests took 1.1329522132873535 seconds
+113
+32 Read requests took 0.29457759857177734 seconds
+114
+32 Read requests took 1.1816604137420654 seconds
+115
+32 Read requests took 1.1423821449279785 seconds
+116
+32 Read requests took 1.1479604244232178 seconds
+117
+32 Read requests took 1.108199119567871 seconds
+118
+32 Read requests took 1.1019096374511719 seconds
+119
+32 Read requests took 1.116060733795166 seconds
+120
+32 Read requests took 1.1026628017425537 seconds
+121
+32 Read requests took 1.1108262538909912 seconds
+122
+32 Read requests took 1.1096463203430176 seconds
+123
+32 Read requests took 1.1363651752471924 seconds
+124
+32 Read requests took 1.0843136310577393 seconds
+125
+32 Read requests took 1.2297255992889404 seconds
+126
+32 Read requests took 1.194387674331665 seconds
+127
+32 Read requests took 1.148146390914917 seconds
+128
+32 Read requests took 0.39852261543273926 seconds
+129
+32 Read requests took 1.1732020378112793 seconds
+130
+32 Read requests took 1.2506396770477295 seconds
+131
+32 Read requests took 0.3014249801635742 seconds
+132
+32 Read requests took 1.1361737251281738 seconds
+133
+32 Read requests took 0.37004947662353516 seconds
+134
+32 Read requests took 0.3615410327911377 seconds
+135
+32 Read requests took 1.1241583824157715 seconds
+136
+32 Read requests took 1.1096587181091309 seconds
+137
+32 Read requests took 0.4076972007751465 seconds
+138
+32 Read requests took 1.3138585090637207 seconds
+139
+32 Read requests took 1.0661869049072266 seconds
+140
+32 Read requests took 1.1607084274291992 seconds
+141
+32 Read requests took 1.0622916221618652 seconds
+142
+32 Read requests took 1.1168179512023926 seconds
+143
+32 Read requests took 0.37186455726623535 seconds
+144
+32 Read requests took 0.37032318115234375 seconds
+145
+32 Read requests took 1.0950078964233398 seconds
+146
+32 Read requests took 1.1426372528076172 seconds
+147
+32 Read requests took 0.33327603340148926 seconds
+148
+32 Read requests took 1.1458008289337158 seconds
+149
+32 Read requests took 0.3879706859588623 seconds
+150
+32 Read requests took 1.1113524436950684 seconds
+151
+32 Read requests took 1.0651628971099854 seconds
+152
+32 Read requests took 0.33229827880859375 seconds
+153
+32 Read requests took 0.33788251876831055 seconds
+154
+32 Read requests took 1.1176180839538574 seconds
+155
+32 Read requests took 1.078240156173706 seconds
+156
+32 Read requests took 1.139094591140747 seconds
+157
+32 Read requests took 1.1093177795410156 seconds
+158
+32 Read requests took 0.3239409923553467 seconds
+159
+32 Read requests took 0.4137091636657715 seconds
+160
+32 Read requests took 1.131882905960083 seconds
+161
+32 Read requests took 1.1305856704711914 seconds
+162
+32 Read requests took 1.1241683959960938 seconds
+163
+32 Read requests took 0.3007185459136963 seconds
+164
+32 Read requests took 1.1330883502960205 seconds
+165
+32 Read requests took 1.146618366241455 seconds
+166
+32 Read requests took 1.0537018775939941 seconds
+167
+32 Read requests took 0.39115309715270996 seconds
+168
+32 Read requests took 0.37439918518066406 seconds
+169
+32 Read requests took 0.38172364234924316 seconds
+170
+32 Read requests took 0.4604778289794922 seconds
+171
+32 Read requests took 1.0965070724487305 seconds
+172
+32 Read requests took 0.3117556571960449 seconds
+173
+32 Read requests took 1.0848231315612793 seconds
+174
+32 Read requests took 1.2257750034332275 seconds
+175
+32 Read requests took 1.1073544025421143 seconds
+176
+32 Read requests took 1.0340979099273682 seconds
+177
+32 Read requests took 1.0889627933502197 seconds
+178
+32 Read requests took 1.1809909343719482 seconds
+179
+32 Read requests took 1.0894958972930908 seconds
+180
+32 Read requests took 1.076033592224121 seconds
+181
+32 Read requests took 0.35920214653015137 seconds
+182
+32 Read requests took 1.1765761375427246 seconds
+183
+32 Read requests took 1.1884140968322754 seconds
+184
+32 Read requests took 1.1690902709960938 seconds
+185
+32 Read requests took 0.3237264156341553 seconds
+186
+32 Read requests took 1.1691722869873047 seconds
+187
+32 Read requests took 1.0987493991851807 seconds
+188
+32 Read requests took 0.3517131805419922 seconds
+189
+32 Read requests took 0.27298474311828613 seconds
+190
+32 Read requests took 1.1458284854888916 seconds
+191
+32 Read requests took 1.3311777114868164 seconds
+192
+32 Read requests took 1.1716372966766357 seconds
+193
+32 Read requests took 1.125694990158081 seconds
+194
+32 Read requests took 1.0894391536712646 seconds
+195
+32 Read requests took 1.1894056797027588 seconds
+196
+32 Read requests took 1.0745482444763184 seconds
+197
+32 Read requests took 0.3641090393066406 seconds
+198
+32 Read requests took 1.1534671783447266 seconds
+199
+32 Read requests took 1.1006722450256348 seconds
+200
+32 Read requests took 1.1390776634216309 seconds
+201
+32 Read requests took 0.3896775245666504 seconds
+202
+32 Read requests took 1.1127240657806396 seconds
+203
+32 Read requests took 1.1846833229064941 seconds
+204
+32 Read requests took 1.0910425186157227 seconds
+205
+32 Read requests took 0.3833301067352295 seconds
+206
+32 Read requests took 1.2110836505889893 seconds
+207
+32 Read requests took 1.0991172790527344 seconds
+208
+32 Read requests took 0.3150346279144287 seconds
+209
+32 Read requests took 1.1425046920776367 seconds
+210
+32 Read requests took 0.3302340507507324 seconds
+211
+32 Read requests took 1.1236212253570557 seconds
+212
+Error
+Error
+Error
+Error
+Error
+Error
+Error
+Error
+Error
+Error
+Error
+Error
+Error
+Error
+Error
+Error
+Error
+Error
+Error
+Error
+Error
+Error
+Error
+Error
+Error
+Error
+Error
+Error
+Error
+Error
+Error
+Error
+Error
+Error
+Error
+32 Read requests took 39.07203936576843 seconds
+213
+32 Read requests took 0.37053751945495605 seconds
+214
+32 Read requests took 1.1115989685058594 seconds
+215
+32 Read requests took 0.35567712783813477 seconds
+216
+32 Read requests took 1.181563138961792 seconds
+217
+32 Read requests took 0.2676231861114502 seconds
+218
+32 Read requests took 1.243511438369751 seconds
+219
+32 Read requests took 1.1546480655670166 seconds
+220
+32 Read requests took 1.1466777324676514 seconds
+221
+32 Read requests took 1.2125484943389893 seconds
+222
+32 Read requests took 0.3323326110839844 seconds
+223
+32 Read requests took 0.3625349998474121 seconds
+224
+32 Read requests took 0.35584092140197754 seconds
+225
+32 Read requests took 1.0908160209655762 seconds
+226
+32 Read requests took 1.1260817050933838 seconds
+227
+32 Read requests took 1.173293113708496 seconds
+228
+32 Read requests took 1.106696367263794 seconds
+229
+32 Read requests took 1.0760974884033203 seconds
+230
+32 Read requests took 0.31165480613708496 seconds
+231
+32 Read requests took 0.27422499656677246 seconds
+232
+32 Read requests took 0.31570911407470703 seconds
+233
+32 Read requests took 1.1886465549468994 seconds
+234
+32 Read requests took 1.0750393867492676 seconds
+235
+32 Read requests took 1.1264934539794922 seconds
+236
+32 Read requests took 0.2967524528503418 seconds
+237
+32 Read requests took 1.087198257446289 seconds
+238
+32 Read requests took 1.2758095264434814 seconds
+239
+32 Read requests took 1.0903441905975342 seconds
+240
+32 Read requests took 1.1653201580047607 seconds
+241
+32 Read requests took 1.0571961402893066 seconds
+242
+32 Read requests took 0.3201932907104492 seconds
+243
+32 Read requests took 0.3099026679992676 seconds
+244
+32 Read requests took 1.1682288646697998 seconds
+245
+32 Read requests took 0.3134784698486328 seconds
+246
+32 Read requests took 0.30868005752563477 seconds
+247
+32 Read requests took 0.28031301498413086 seconds
+248
+32 Read requests took 1.1172091960906982 seconds
+249
+32 Read requests took 0.29397082328796387 seconds
+250
+32 Read requests took 1.0822598934173584 seconds
+251
+32 Read requests took 0.27644801139831543 seconds
+252
+32 Read requests took 0.36632275581359863 seconds
+253
+32 Read requests took 0.38815808296203613 seconds
+254
+32 Read requests took 1.046802282333374 seconds
+255
+32 Read requests took 1.1095919609069824 seconds
+256
+32 Read requests took 0.23600220680236816 seconds
+257
+32 Read requests took 1.1411428451538086 seconds
+258
+32 Read requests took 1.190880298614502 seconds
+259
+32 Read requests took 1.1830520629882812 seconds
+260
+32 Read requests took 1.1387674808502197 seconds
+261
+32 Read requests took 1.1576828956604004 seconds
+262
+32 Read requests took 1.1117444038391113 seconds
+263
+32 Read requests took 1.1281392574310303 seconds
+264
+32 Read requests took 1.099416732788086 seconds
+265
+32 Read requests took 1.0672776699066162 seconds
+266
+32 Read requests took 1.170011043548584 seconds
+267
+32 Read requests took 0.323559045791626 seconds
+268
+32 Read requests took 1.0989365577697754 seconds
+269
+32 Read requests took 1.17982816696167 seconds
+270
+32 Read requests took 1.143326997756958 seconds
+271
+32 Read requests took 1.1070425510406494 seconds
+272
+32 Read requests took 0.2843434810638428 seconds
+273
+32 Read requests took 1.2034804821014404 seconds
+274
+32 Read requests took 1.1090593338012695 seconds
+275
+32 Read requests took 1.1270129680633545 seconds
+276
+32 Read requests took 1.1237151622772217 seconds
+277
+32 Read requests took 0.32889866828918457 seconds
+278
+32 Read requests took 1.156212329864502 seconds
+279
+32 Read requests took 1.201897382736206 seconds
+280
+32 Read requests took 0.36296653747558594 seconds
+281
+32 Read requests took 1.0967273712158203 seconds
+282
+32 Read requests took 0.3160719871520996 seconds
+283
+32 Read requests took 0.27993035316467285 seconds
+284
+32 Read requests took 0.3564720153808594 seconds
+285
+32 Read requests took 1.1402759552001953 seconds
+286
+32 Read requests took 0.35393524169921875 seconds
+287
+32 Read requests took 1.229299545288086 seconds
+288
+32 Read requests took 1.1744744777679443 seconds
+289
+32 Read requests took 1.1365044116973877 seconds
+290
+32 Read requests took 1.090331792831421 seconds
+291
+32 Read requests took 1.163254976272583 seconds
+292
+32 Read requests took 0.3252882957458496 seconds
+293
+32 Read requests took 0.3594210147857666 seconds
+294
+32 Read requests took 1.1433382034301758 seconds
+295
+32 Read requests took 0.4231863021850586 seconds
+296
+32 Read requests took 1.1631474494934082 seconds
+297
+32 Read requests took 1.1176438331604004 seconds
+298
+32 Read requests took 1.1958277225494385 seconds
+299
+32 Read requests took 1.216552734375 seconds
+root@client:/usr/src/app# 
+

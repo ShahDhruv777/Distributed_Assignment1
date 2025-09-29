@@ -1,0 +1,6 @@
+#!/bin/bash
+systemctl start mysql
+mysql -e 'CREATE DATABASE IF NOT EXISTS Student_info;'
+mysql -e "CREATE USER 'myuser'@'localhost' IDENTIFIED BY 'mypass';"
+mysql -e "GRANT ALL PRIVILEGES ON Student_info.* TO 'myuser'@'localhost';"
+python3 server.py > server_logs

@@ -1,0 +1,2 @@
+#!/bin/bash
+python3 combined_lb.py > lb_logs
